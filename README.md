@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 * Apache Maven
 * Gradle
 ## 라이브러리
-* jQuery
 * Bootstrap
+* jQuery
+* JSGRID
 ## Open API
 * Naver 로그인
 * Kakao 로그인
