@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 * Zoom
 * Discode
 * Google Meet
+## Git GUI Client
+* Sourcetree
+* tortoisegit
