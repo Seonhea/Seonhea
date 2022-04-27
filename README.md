@@ -56,3 +56,11 @@ Here are some ideas to get you started:
 ## 형상관리 시스템
 * Git/github
 * Bitbucket
+## 협업 툴
+* Google Drive
+* Attlasian - Confluence
+* Jira
+## 비대면 회의, 발표
+* Zoom
+* Discode
+* Google Meet
