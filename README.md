@@ -55,7 +55,10 @@ Here are some ideas to get you started:
 * 국세청 사업자번호조회
 ## 형상관리 시스템
 * Git/github
-* Bitbucket
+* Git/Bitbucket
+## Git GUI Client
+* Sourcetree
+* tortoisegit
 ## 협업 툴
 * Google Drive
 * Attlasian - Confluence
@@ -64,6 +67,3 @@ Here are some ideas to get you started:
 * Zoom
 * Discode
 * Google Meet
-## Git GUI Client
-* Sourcetree
-* tortoisegit
