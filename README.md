@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 *  HTML
 *  CSS
 ## 사용해본 프레임워크
-*  * STS-3.9.12
-*  * STS-4.13.1 (Boot)
+*  * STS 3.9.12
+*  * STS 4.13.1 (Boot)
+*  * MyBatis
 ## DBMS
-* Oracle
+* Oracle 11g Express Edition
 * MariaDB
 ## 사용해본 DB 툴
 *  sqldeveloper
@@ -32,10 +33,13 @@ Here are some ideas to get you started:
 *  MySQL Workbench
 *  HeidiSQL
 ## WAS
-* Apache Tomcat
+* Apache Tomcat 8.5
 ## 프로젝트 관리도구
 * Apache Maven
 * Gradle
+## 라이브러리
+* jQuery
+* Bootstrap
 ## Open API
 * Naver 로그인
 * Kakao 로그인
@@ -43,3 +47,6 @@ Here are some ideas to get you started:
 * Daum 주소찾기
 * Selenium
 * 국세청 사업자번호조회
+## 형상관리 시스템
+* Git/github
+* Bitbucket
