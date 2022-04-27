@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+안녕하세요! 풀스택 개발자 Seonhea입니다.
+
+***
 ## 사용가능 언어
 *  Java
 *  JavaScript
