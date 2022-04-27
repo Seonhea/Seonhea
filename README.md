@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 *  HTML
 *  CSS
 ## 사용해본 프레임워크
-*  * STS 3.9.12
-*  * STS 4.13.1 (Boot)
-*  * MyBatis
+*  STS 3.9.12
+*  MyBatis
+*  spring-security
+*  Log4j
+*  STS 4.13.1 (Boot)
 ## DBMS
 * Oracle 11g Express Edition
 * MariaDB
