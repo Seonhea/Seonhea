@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
-<img src="https://img.shields.io/badge/-blog-ff69b4?style=flat-square&logo=GitHub&logoColor=white" alt="Seonhea의 개발블로그" /> 
+<img src="https://img.shields.io/badge/-Blog-ff69b4?logo=GitHub&logoColor=white" alt="Seonhea의 개발블로그" /> 
 </a>
 
 <!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
