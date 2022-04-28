@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<p align="center">
-<!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
+<!-- github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
-</p>
+<br>
  <h3 align="center">📋 Record 📋</h3>
  <p align="center">
  <a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
@@ -69,7 +68,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white" />
 -->
  [![Seonhea's github stats](https://github-readme-stats.vercel.app/api?username=Seonhea&count_private=true&custom_title=Seonhea's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/Seonhea/github-readme-stats)  
-  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seonhea&layout=compact)](https://github.com/Seonhea/github-readme-stats)
 </p>
 <br>
 <br>
