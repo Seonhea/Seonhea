@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 *  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
 *  JavaScript <img src="https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript" />
 *  SQL <img src="https://img.shields.io/badge/-Oracle-F80000?logo=Oracle" />
-*  HTML5 <img src="https://img.shields.io/badge/-HTML5-007396?logo=Html5" />
-*  CSS3 <img src="https://img.shields.io/badge/-CSS3-007396?logo=CSS3" />
+*  HTML5 <img src="https://img.shields.io/badge/-E34F26-007396?logo=Html5" />
+*  CSS3 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" />
 ## 사용해본 프레임워크
 *  STS 3.9.12 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring" />
 *  MyBatis
