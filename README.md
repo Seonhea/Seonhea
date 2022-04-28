@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 * 국세청 사업자번호조회
 ## 형상관리 시스템
 * Git/github <img src="https://img.shields.io/badge/-Git/github-blue?logo=github" />
-* Git/Bitbucket  <img src="https://img.shields.io/badge/-Git/github-blue?logo=github" />
+* Git/Bitbucket <img src="https://img.shields.io/badge/-Bitbucket-blue?logo=bitbucket" />
 ## Git GUI Client
-* Sourcetree <img src="https://img.shields.io/badge/-Bitbucket-blue?logo=bitbucket" />
+* Sourcetree  <img src="https://img.shields.io/badge/-Sourcetree-blue?logo=sourcetree" />
 * tortoisegit
 ## 협업 툴
 * Google Drive
