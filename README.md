@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 *  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
 *  JavaScript <img src="https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript" />
 *  SQL <img src="https://img.shields.io/badge/-Oracle-F80000?logo=Oracle" />
-*  HTML5 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=Html5" />
+*  HTML5 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=Html5&logoColor=white" />
 *  CSS3 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" />
 ## 사용해본 프레임워크
 *  STS 3.9.12 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 *  MySQL Workbench
 *  HeidiSQL
 ## WAS
-* Apache Tomcat 8.5 <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?logo=ApacheTomcat&logoColor=white" />
+* Apache Tomcat 8.5 <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?logo=ApacheTomcat&logoColor=black" />
 ## 프로젝트 관리도구
 * Apache Maven <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 * Gradle <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 * tortoisegit
 ## 협업 툴
 * Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive&logoColor=white" />
-* Attlasian - Confluence <img src="https://img.shields.io/badge/-Attlasian-0052CC?logo=Attlasian" />
+* Atlassian - Confluence <img src="https://img.shields.io/badge/-Atlassian-0052CC?logo=Atlassian" />
 * Jira <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 ## 비대면 회의, 발표
 * Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom&logoColor=white" />
