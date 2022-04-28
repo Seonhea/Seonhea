@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ***
 ## 사용가능 언어
-*  Java
-*  JavaScript
+*  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
+*  JavaScript <img src="https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript" />
 *  SQL
 *  HTML
 *  CSS
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 * Git/github <img src="https://img.shields.io/badge/-Git/github-181717?logo=github" />
 * Git/Bitbucket <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" />
 ## Git GUI Client
-* Sourcetree  <img src="https://img.shields.io/badge/-Sourcetree-blue?logo=sourcetree" />
+* Sourcetree  <img src="https://img.shields.io/badge/-Sourcetree-0052CC?logo=sourcetree" />
 * tortoisegit
 ## 협업 툴
 * Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive" />
