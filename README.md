@@ -6,21 +6,6 @@ I'm Seonhea, a full-time full-stack developer 👨‍💻 working since 2022 �
 
 <br/>  
 
-<!--
-**Seonhea/Seonhea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
  <h3 align="center">📋 Record 📋</h3>
  <p align="center">
  <a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
@@ -94,7 +79,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
  --> 
-<br>
 
 <h3 align="center">🧷 I've used 🧷</h3>
 
@@ -117,6 +101,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Facebook Login-1877F2?logo=Facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive&logoColor=white" />
 <img src="https://img.shields.io/badge/-Atlassian-0052CC?logo=Atlassian" />
+<img src="https://img.shields.io/badge/-Confluence-0052CC?logo=Confluence" />
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom&logoColor=white" />
 <img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
@@ -130,7 +115,10 @@ Here are some ideas to get you started:
 -->
  <br>
  </p>
+ <br>
+ 
 ## Github Stats
+
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Seonhea&show_icons=true&count_private=true&hide_border=true" align="center" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seonhea&layout=compact" align="center" />
