@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
-<br>
-<br>
   
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 
@@ -53,10 +51,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sourcetree-0052CC?logo=sourcetree" />
+<img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white" />
 <!--
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white" />
 -->
 </p>
-
+<br>
 <!-- 텍스트로 리스트업하니 너무 스크롤바 길어져서 별로..
 ## 사용가능 언어
 *  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
