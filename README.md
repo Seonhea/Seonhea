@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 *  MySQL Workbench
 *  HeidiSQL
 ## WAS
-* Apache Tomcat 8.5
+* Apache Tomcat 8.5 <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?logo=Tomcat" />
 ## 프로젝트 관리도구
 * Apache Maven <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 * Gradle <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
