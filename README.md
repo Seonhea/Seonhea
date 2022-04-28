@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
  <h3 align="center">📋 Record 📋</h3>
  <p align="center">
  <a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>
@@ -99,16 +100,27 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=Spring Boot&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
 <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sourcetree-0052CC?logo=sourcetree" />
 <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/-Naver Login-03C75A?logo=Naver&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kakao Login-FFCD00?logo=KakaoTalk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Facebook Login-1877F2?logo=Facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive&logoColor=white" />
+<img src="https://img.shields.io/badge/-Atlassian-0052CC?logo=Atlassian" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
+<img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom&logoColor=white" />
+<img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google Meet-00897B?logo=googlemeet" />
 <!--
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
@@ -116,15 +128,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white" />
 -->
- </p>
  <br>
- 
+ </p>
 ## Github Stats
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Seonhea&show_icons=true&count_private=true&hide_border=true" align="center" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seonhea&layout=compact" align="center" />
 </div> 
-
 <br>
 <br>
 <!-- 텍스트로 리스트업하니 너무 스크롤바 길어져서 별로..
