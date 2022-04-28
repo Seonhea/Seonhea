@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85" align="center">
+<a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
 <img src="https://img.shields.io/badge/-Blog-ff69b4?logo=GitHub&logoColor=white" alt="Seonhea의 개발블로그" /> 
 </a>
 
-<p align="center">
 <!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-</p>
 
 <br>
 <br>
