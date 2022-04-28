@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 *  HTML5 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=Html5" />
 *  CSS3 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" />
 ## 사용해본 프레임워크
-*  STS 3.9.12 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring" />
+*  STS 3.9.12 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white" />
 *  MyBatis
 *  spring-security
 *  Log4j
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 ## Open API
 * Naver 로그인 <img src="https://img.shields.io/badge/-Naver-03C75A?logo=Naver&logoColor=white" />
 * Kakao 로그인 <img src="https://img.shields.io/badge/-Kakao-FFCD00?logo=KakaoTalk&logoColor=white" />
-* Facebook 로그인 <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook" />
+* Facebook 로그인 <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white" />
 * Daum 주소찾기
-* Selenium <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium" />
+* Selenium <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white" />
 * 국세청 사업자번호조회
 ## 형상관리 시스템
 * Git/github <img src="https://img.shields.io/badge/-Git/github-181717?logo=github" />
@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 * Sourcetree  <img src="https://img.shields.io/badge/-Sourcetree-0052CC?logo=sourcetree" />
 * tortoisegit
 ## 협업 툴
-* Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive" />
+* Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive&logoColor=white" />
 * Attlasian - Confluence <img src="https://img.shields.io/badge/-Attlasian-0052CC?logo=Attlasian" />
 * Jira <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 ## 비대면 회의, 발표
-* Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom" />
+* Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom&logoColor=white" />
 * Discord <img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
 * Google Meet <img src="https://img.shields.io/badge/-Google Meet-00897B?logo=googlemeet" />
