@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ***
 ## 사용가능 언어
