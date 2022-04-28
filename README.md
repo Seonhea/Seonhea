@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
-<img src="https://img.shields.io/badge/-Blog-ff69b4?logo=GitHub&logoColor=white" alt="Seonhea의 개발블로그" /> 
-</a>
+
 
 <!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
-  
+ <h3 align="center">📝 Record 📋</h3> 
+ <a href="https://snne.tistory.com/category/%EC%BD%94%EB%94%A9%EC%A4%91%EB%8F%85">
+<img src="https://img.shields.io/badge/-Blog-ff69b4?logo=GitHub&logoColor=white" alt="Seonhea의 개발블로그" /> 
+</a>
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 
 <p align="center">
@@ -65,7 +66,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white" />
 -->
+ [![Seonhea's github stats](https://github-readme-stats.vercel.app/api?username=Seonhea&count_private=true&custom_title=Seonhea's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/Seonhea/github-readme-stats)  
+  
 </p>
+<br>
 <br>
 <!-- 텍스트로 리스트업하니 너무 스크롤바 길어져서 별로..
 ## 사용가능 언어
