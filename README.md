@@ -43,17 +43,17 @@ Here are some ideas to get you started:
 *  MySQL Workbench
 *  HeidiSQL
 ## WAS
-* Apache Tomcat 8.5 <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?logo=ApacheTomcat" />
+* Apache Tomcat 8.5 <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?logo=ApacheTomcat&logoColor=white" />
 ## 프로젝트 관리도구
 * Apache Maven <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 * Gradle <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
 ## 라이브러리
-* Bootstrap <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap" />
+* Bootstrap <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 * jQuery <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
 * JSGRID
 ## Open API
-* Naver 로그인 <img src="https://img.shields.io/badge/-Naver-03C75A?logo=Naver" />
-* Kakao 로그인 <img src="https://img.shields.io/badge/-Kakao-FFCD00?logo=KakaoTalk" />
+* Naver 로그인 <img src="https://img.shields.io/badge/-Naver-03C75A?logo=Naver&logoColor=white" />
+* Kakao 로그인 <img src="https://img.shields.io/badge/-Kakao-FFCD00?logo=KakaoTalk&logoColor=white" />
 * Facebook 로그인 <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook" />
 * Daum 주소찾기
 * Selenium <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium" />
@@ -70,5 +70,5 @@ Here are some ideas to get you started:
 * Jira <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 ## 비대면 회의, 발표
 * Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom" />
-* Discord <img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord" />
+* Discord <img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" />
 * Google Meet <img src="https://img.shields.io/badge/-Google Meet-00897B?logo=googlemeet" />
