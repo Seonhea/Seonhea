@@ -70,5 +70,5 @@ Here are some ideas to get you started:
 * Jira <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 ## 비대면 회의, 발표
 * Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom" />
-* Discord <img src="https://img.shields.io/badge/-Discord-FF6000?logo=Discord" />
+* Discord <img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord" />
 * Google Meet <img src="https://img.shields.io/badge/-Google Meet-00897B?logo=googlemeet" />
