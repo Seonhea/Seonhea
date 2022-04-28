@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 * Sourcetree  <img src="https://img.shields.io/badge/-Sourcetree-blue?logo=sourcetree" />
 * tortoisegit
 ## 협업 툴
-* Google Drive
+* Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive" />
 * Attlasian - Confluence
 * Jira
 ## 비대면 회의, 발표
