@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 <!-- Seonhea의 github 조회 수(today/total) https://hits.seeyoufarm.com/ -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonhea&count_bg=%233BC8A9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-</
-***
+
+<br>
+<br>
+<br>
+  
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 
 <p align="center">
@@ -64,13 +67,6 @@ Here are some ideas to get you started:
 -->
 </p>
 
-<br>
-<br>
-<br>
-
-<p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" /> 
-</p>
 <!-- 텍스트로 리스트업하니 너무 스크롤바 길어져서 별로..
 ## 사용가능 언어
 *  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
