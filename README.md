@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 *  Java <img src="https://img.shields.io/badge/-Java-007396?logo=Java" />
 *  JavaScript <img src="https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript" />
 *  SQL <img src="https://img.shields.io/badge/-Oracle-F80000?logo=Oracle" />
-*  HTML5 <img src="https://img.shields.io/badge/-E34F26-007396?logo=Html5" />
+*  HTML5 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=Html5" />
 *  CSS3 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" />
 ## 사용해본 프레임워크
 *  STS 3.9.12 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring" />
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 *  Log4j
 *  STS 4.13.1 (Boot)
 ## DBMS
-* Oracle 11g Express Edition
-* MariaDB
+* Oracle 11g Express Edition <img src="https://img.shields.io/badge/-Oracle-F80000?logo=Oracle" />
+* MariaDB <img src="https://img.shields.io/badge/-MariaDB-003545?logo=MariaDB" />
 ## 사용해본 DB 툴
 *  sqldeveloper
 *  DBeaver
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 ## WAS
 * Apache Tomcat 8.5
 ## 프로젝트 관리도구
-* Apache Maven
-* Gradle
+* Apache Maven <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
+* Gradle <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
 ## 라이브러리
-* Bootstrap
-* jQuery
+* Bootstrap <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap" />
+* jQuery <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
 * JSGRID
 ## Open API
-* Naver 로그인
-* Kakao 로그인
-* Facebook 로그인
+* Naver 로그인 <img src="https://img.shields.io/badge/-Naver-03C75A?logo=Naver" />
+* Kakao 로그인 <img src="https://img.shields.io/badge/-Kakao-FFCD00?logo=KakaoTalk" />
+* Facebook 로그인 <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook" />
 * Daum 주소찾기
-* Selenium
+* Selenium <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium" />
 * 국세청 사업자번호조회
 ## 형상관리 시스템
 * Git/github <img src="https://img.shields.io/badge/-Git/github-181717?logo=github" />
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 * tortoisegit
 ## 협업 툴
 * Google Drive <img src="https://img.shields.io/badge/-Google%20Drive-4285F4?logo=googledrive" />
-* Attlasian - Confluence
-* Jira
+* Attlasian - Confluence <img src="https://img.shields.io/badge/-Attlasian-0052CC?logo=Attlasian" />
+* Jira <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira" />
 ## 비대면 회의, 발표
-* Zoom
-* Discode
-* Google Meet
+* Zoom <img src="https://img.shields.io/badge/-Zoom-0052CC?logo=zoom" />
+* Discode <img src="https://img.shields.io/badge/-Discode-FF6000?logo=Discode" />
+* Google Meet <img src="https://img.shields.io/badge/-Google Meet-00897B?logo=googlemeet" />
