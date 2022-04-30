@@ -39,6 +39,7 @@ I'm Seonhea, a full-time full-stack developer 👨‍💻 working since 2022 �
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/mybatis/logo/4e80b0cb1d826967aa8216d1e75cea8c45160995/logo-bird-ninja.svg" alt="Mybatis" height="50" />
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -88,6 +89,7 @@ I'm Seonhea, a full-time full-stack developer 👨‍💻 working since 2022 �
 <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
+<img src="https://img.shields.io/badge/-jsGrid-0769AD?logo=jQuery" />
 <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
