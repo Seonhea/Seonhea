@@ -88,10 +88,12 @@ I'm Seonhea, a full-time full-stack developer 👨‍💻 working since 2022 �
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=Spring Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery" />
 <img src="https://img.shields.io/badge/-jsGrid-0769AD?logo=jQuery" />
 <img src="https://img.shields.io/badge/-Apache Maven-C71A36?logo=Apache Maven" />
 <img src="https://img.shields.io/badge/-Gradle-02303A?logo=Gradle" />
+ <img src="https://img.shields.io/badge/-ERDCloud-007ACC" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" />
